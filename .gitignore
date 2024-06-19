@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebApplication12/bin/Debug/net8.0
+/WebApplication12/obj
+/WebApplication12/WebApplication12.csproj.user
